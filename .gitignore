@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Testing cache
+.pytest_cache/
+
+# Temp files
+.chronosync_tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.mp4
+*.mov
+*.avi
+
+# Logs
+*.log

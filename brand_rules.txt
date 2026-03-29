@@ -1,0 +1,4 @@
+# Prohibited words (comma-separated)
+prohibited: hate,violence,drugs,adult,politics
+# Required disclaimers
+required: This content is for informational purposes only.,Consult your legal team before publishing.
