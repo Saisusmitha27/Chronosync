@@ -15,7 +15,7 @@ Enterprise content workflows today are fragmented and inefficient:
 - Localization is inconsistent and lacks cultural adaptation
 - No feedback loop exists to improve content performance
 
-Organizations lose significant time and resources due to repetitive manual processes, limiting their ability to scale content operations effectively :contentReference[oaicite:0]{index=0}.
+Organizations lose significant time and resources due to repetitive manual processes, limiting their ability to scale content operations effectively.
 
 ---
 
@@ -42,7 +42,7 @@ ChronoSync follows a modular, multi-agent architecture orchestrated by a central
 - **Video Pipeline**: Automated video rendering system
 - **Distribution Layer**: Multi-channel publishing system
 
-The architecture ensures that each component is independently scalable and replaceable, enabling flexibility and resilience :contentReference[oaicite:1]{index=1}.
+The architecture ensures that each component is independently scalable and replaceable, enabling flexibility and resilience.
 
 ---
 
@@ -115,6 +115,6 @@ Publishing is controlled through a human-in-the-loop approval system, ensuring g
 - Resilient architecture with fallback mechanisms
 - Enterprise-ready scalability and modular design
 
-ChronoSync is not just a content generator but a complete enterprise content operations platform that integrates intelligence, automation, and governance into a unified system :contentReference[oaicite:2]{index=2}.
+ChronoSync is not just a content generator but a complete enterprise content operations platform that integrates intelligence, automation, and governance into a unified system.
 
 ---
